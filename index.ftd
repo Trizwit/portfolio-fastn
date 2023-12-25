@@ -1,8 +1,8 @@
--- import: shaheen-senpai.tech/navbar as nb
--- import: shaheen-senpai.tech/about/lib as al
--- import: shaheen-senpai.tech/experience/lib as el
--- import: shaheen-senpai.tech/work/lib as wl
--- import: shaheen-senpai.tech/projects/lib as pl
+-- import: <user_name>.github.io/<repo_name>/navbar as nb
+-- import: <user_name>.github.io/<repo_name>/about/lib as al
+-- import: <user_name>.github.io/<repo_name>/experience/lib as el
+-- import: <user_name>.github.io/<repo_name>/work/lib as wl
+-- import: <user_name>.github.io/<repo_name>/projects/lib as pl
 
 
 
@@ -13,8 +13,8 @@
 ;; ......................................................hero component..................................................
 -- lib.hero:
 name: Shaheen Siddique. N
-title: I love to Code.
-description: I am a passionate and driven student pursuing a BTech degree in computer science, dedicated to gaining hands-on experience and knowledge in various aspects of technology. 
+title: I like to Code.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam.
 cta-button-text: Check out my work!
 cta-button-link: index.html
 ;; ........................................................hero end.......................................................
@@ -27,10 +27,10 @@ cta-button-link: index.html
 cover: $assets.files.about.shaheen.jpeg
 
 -- al.about-content:
-para-1: Hey there! I'm Shaheen Siddique, a passionate tech enthusiast on a journey to explore the vast realms of computer science. My fascination with technology sparked during my college years, where I dove into the world of data science, programming, and innovative project development.
-para-2: Currently pursuing a BTech degree in Computer Science at Mar Athanasius College of Engineering, Kothamangalam, I've been honing my skills through hands-on experiences and exciting projects.
-para-3: Beyond the classroom, my tech adventure has taken me on some pretty exciting rides. From tackling real-world challenges as an intern at TRIZWIT LABS to leading creative missions at AISA MACE and IEDC MACE, every project is a chance to dive into the thrill of tech. It's not just about coding; it's about turning ideas into reality, experimenting, and enjoying every bit of the creative journey.
-skills-text: My tech mojo and wizardry include :
+para-1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa.
+para-2: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat.
+para-3: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis.
+skills-text: My skills and technology include :
 
 -- ftd.row:
 width: fill-container
@@ -106,10 +106,10 @@ height: auto
 company-name: Trizwit
 
 -- el.experience-button:
-company-name: IEDC Mace
+company-name: Google 
 
 -- el.experience-button:
-company-name: AISA Mace
+company-name: Apple .Inc
 
 -- end: ftd.column
 ;; roles and companies end.......................
@@ -130,42 +130,42 @@ duration: May 2020 - Present
 
 -- el.experience-paragraph:
 company-name: Trizwit
-para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis.
+para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque.
 
 -- el.experience-paragraph:
 company-name: Trizwit
-para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. 
+para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Sed sed lacinia lectus. Duis sit amet sodales felis. 
 
 -- el.experience-paragraph:
 company-name: Trizwit
-para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis.
+para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam.
 
 
 
 
 -- el.experience-details:
-company-name: IEDC Mace
+company-name: Google 
 role: Software Developer
 duration: 2020 - 2021
 
 -- el.experience-paragraph:
-company-name: IEDC Mace
+company-name: Google 
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. 
 
 -- el.experience-paragraph:
-company-name: IEDC Mace
+company-name: Google 
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. 
 
 
 
 
 -- el.experience-details:
-company-name: AISA Mace
+company-name: Apple .Inc
 role: Software Developer
 duration: 2020 - 2021
 
 -- el.experience-paragraph:
-company-name: AISA Mace
+company-name: Apple .Inc
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. 
 
 
@@ -203,10 +203,10 @@ overflow-x: scroll
 company-name: Trizwit
 
 -- el.experience-button:
-company-name: IEDC Mace
+company-name: Google 
 
 -- el.experience-button:
-company-name: AISA Mace
+company-name: Apple .Inc
 
 ;; roles and companies end.......................
 
@@ -225,35 +225,35 @@ duration: May 2020 - Present
 
 -- el.experience-paragraph:
 company-name: Trizwit
-para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis.
+para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Duis sit amet sodales felis.
 
 -- el.experience-paragraph:
 company-name: Trizwit
-para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. 
+para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. 
 
 
 -- el.experience-details:
-company-name: IEDC Mace
+company-name: Google 
 role: Software Developer
 duration: 2020 - 2021
 
 -- el.experience-paragraph:
-company-name: IEDC Mace
+company-name: Google 
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. 
 
 -- el.experience-paragraph:
-company-name: IEDC Mace
+company-name: Google 
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. 
 
 
 
 -- el.experience-details:
-company-name: AISA Mace
+company-name: Apple .Inc
 role: Software Developer
 duration: 2020 - 2021
 
 -- el.experience-paragraph:
-company-name: AISA Mace
+company-name: Apple .Inc
 para: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa.
 
 
