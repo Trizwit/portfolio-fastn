@@ -417,24 +417,24 @@ cta-text-1: About
 cta-text-2: Experience
 cta-text-3: Work
 cta-text-4: Contact
-cta-link-1: /#about/
-cta-link-2: /#experience/
-cta-link-3: /#work/
-cta-link-4: /#contact/
+cta-link-1: /<repo_name>/#about
+cta-link-2: /<repo_name>/#experience
+cta-link-3: /<repo_name>/#work
+cta-link-4: /<repo_name>/#contact
 cta-button-text: Resume
-cta-button-link: https://rxresu.me/shaheen50053/shaheen-r2
+cta-button-link: https://shaheen-senpai.tech
 
 -- nb.navbar-drop-down:
 cta-text-1: About
 cta-text-2: Experience
 cta-text-3: Work
 cta-text-4: Contact
-cta-link-1: //#about
-cta-link-2: index.html#experience
-cta-link-3: index.html#work
-cta-link-4: index.html#contact
+cta-link-1: /<repo_name>/#about
+cta-link-2: /<repo_name>/#experience
+cta-link-3: /<repo_name>/#work
+cta-link-4: /<repo_name>/#contact
 cta-button-text: Resume
-cta-button-link: https://rxresu.me/shaheen50053/shaheen-r2
+cta-button-link: https://shaheen-senpai.tech
 ;; navbar end
 
 
