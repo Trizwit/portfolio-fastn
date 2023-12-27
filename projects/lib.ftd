@@ -65,7 +65,7 @@ role: $fira-code-size-14-400
 color: #64ffda
 css: $assets.files.styles.style.css
 classes: underline-on-hover
-link: /projects/
+link: /<repo_name>/projects/
 
 -- end: ftd.column
 ;; end: title and number----------------------------------
